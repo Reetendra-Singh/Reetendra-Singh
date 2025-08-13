@@ -2,11 +2,9 @@ Hi! I am Reetendra Singh, a Postdoctoral Fellow at the Technion - Israel Institu
 ## Academic Background
 
 - **PhD in Chemical Science** (2020-2023)  
-  *Supervisor: Prof. C. N. R. Rao (FRS)*  
   New Chemistry Unit (NCU) & International Center for Materials Science (ICMS), JNCASR, Bengaluru, Karnataka, India.
 
 - **MS in Chemical Science** (2017-2020)  
-  *Supervisor: Prof. C. N. R. Rao (FRS)*  
   NCU & ICMS, JNCASR, Bengaluru, Karnataka, India.
 
 - **BSc in Chemistry** (2014-2017)  
