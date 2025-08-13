@@ -13,3 +13,5 @@ Hi! I am Reetendra Singh, a Postdoctoral Fellow at the Technion - Israel Institu
 ## Contact Information
 
 For any inquiries or collaborations, feel free to reach out through reetendra.rajpoot.bhu@gmail.com.
+or
+https://reetendra.com/
